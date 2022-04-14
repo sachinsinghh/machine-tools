@@ -1,0 +1,12 @@
+
+* { padding:0; margin:0; }
+body { font-size: 12px; line-height:1.8em; font-family: Arial, Tahoma, sans-serif; color:#777777; position:relative; padding:0px; margin:0px; }
+a { color:#777777; outline:none; cursor:pointer; text-decoration:none; }
+a:hover { }
+p { margin-bottom: 20px; line-height: 1.3em; }
+.cl{ clear:both; }
+.lo_boxm{ width:260px; height:auto; margin: 10px auto 0; color: #686868; font-family:Arial, Helvetica, sans-serif; font-size:13px; }
+.lo_boxm label { padding:2px 0px 0px 0px; font-size:12px; margin:5px 0 0px; display:block; font-weight:700; color:#047aac;}
+.lo_boxm input,
+.lo_boxm textarea { width:94%; border:1px solid #ccc; padding:5px 4px; margin:auto; }
+.lo_boxm input.btn { width:76px; height:32px; float:right; margin:10px; border:0; padding:0; background:url(../images/email_us.png) no-repeat 0 0; text-indent:-9999px; }
